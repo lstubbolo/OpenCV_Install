@@ -1,0 +1,8 @@
+#needed for OpenCV
+numpy
+firebase_admin
+RPi.GPIO
+
+#pytesseract
+#picamera
+
